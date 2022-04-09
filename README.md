@@ -1,1 +1,1 @@
-# VR_TryOn
+# AR_TryOn
